@@ -10,7 +10,7 @@
   - [BNB/BTC](https://github.com/komehz/Crypto-Data-Analysis-BNB-BTC)
   - [Prediction Bot](https://github.com/komehz/CandleGenie-Prediction-Bot)
 
-<h2> Certifications </h2>
+<h2> 📜 Certifications </h2>
 
 - [TensorFlow Developer Certificate](https://www.credential.net/dcf6b012-bdf0-48e5-be1b-207a73d8d351)
 
