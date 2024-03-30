@@ -16,13 +16,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Komehz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Komehz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Komehz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[youtube]: https://www.youtube.com/@martine292
-[instagram]: https://www.instagram.com/komehz/
-[linkedin]: https://www.linkedin.com/in/moe/
+<a href="https://www.youtube.com/@martine292"><img src="https://img.shields.io/badge/-Red?style=social&logo=Youtube&label=Youtube" /></a>
+<a href="https://www.instagram.com/komehz/"><img src="https://img.shields.io/badge/-Red?style=social&logo=Instagram&label=Instagram" /></a>
+<a href="https://www.linkedin.com/in/moe/"><img src="https://img.shields.io/badge/-Blue?style=social&logo=Linkedin&label=LinkedIn" /></a>
 
 <!--
 **komehz/komehz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
